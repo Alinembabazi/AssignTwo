@@ -1,0 +1,157 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+nav{
+    background-color: aquamarine;
+    text-align: center;
+    opacity: 0.5;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 20;
+    padding: 30px;
+   
+}
+h1{
+   text-align: center;
+   text-decoration: dashed; 
+
+}
+h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    margin: 20px;
+}
+#head2{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    margin: 20px;
+    text-decoration: underline;
+}
+a{
+    text-decoration: none;
+    color: black;
+    margin: 20px;
+}
+a:hover{
+    color: blue;
+    text-decoration: underline;
+}
+footer{
+    background-color: aquamarine;
+    text-align: center;
+    opacity: 0.8;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    font-weight: bold;
+    margin-top: 20px;
+    padding: 20px;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: left;
+    margin: 20px;
+    /* background-color:  */
+    /* lightgray; */
+}
+
+ul{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin: 20px;
+}
+li{
+    margin: 10px;
+}
+button{
+    background-color: rgb(34, 228, 163);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 9px;
+}
+button:hover{
+    background-color: rgb(48, 48, 80);
+    color: rgb(113, 51, 51);
+}
+form{
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: rgb(116, 157, 167); 
+    padding: 20px;
+    border-radius: 10px;
+}
+input{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+fieldset{
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: lightgray;
+}
+iframe{
+    margin: 20px;
+    border-radius: 10px;
+}
+img{
+    margin: 20px;
+    border-radius: 10px;
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    margin: 20px;
+}
+/* table{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    border: 1px solid black;
+    
+} */
+ #kcchighlight{
+    color: blue;
+    text-decoration: none;
+    text-align: left;
+    
+ }
+ .news{
+    column-count: 2;
+    column-gap: 20px;
+ }
+ .table1{
+    text-align: left;
+    margin-left: 300px;
+ }
+ #table1{
+    text-align: left;
+ }
+    #table2{
+        text-align: left;
+    }
+    #tbl1{
+        text-align: left;
+    }
+    .table2{
+        text-align: left;
+        margin-left: 30px;
+    }
+    #welcometokcc{
+        text-align: center;
+        color: green;
+    }
